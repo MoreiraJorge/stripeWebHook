@@ -18,7 +18,7 @@ The status is still in progress because i am still looking for changes and impro
 > 
 > More information about stripe webhooks can be found in the docs : https://stripe.com/docs/webhooks
 > 
-> ### Don´t forget to force TLS/HTTPS on your webhook endpoint!
+> ### Don´t forget to force TLS/HTTPS on your webhook endpoint in production!
 
 <br>
 <p align="center">
