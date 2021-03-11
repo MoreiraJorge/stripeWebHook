@@ -17,6 +17,8 @@ The status is still in progress because i am still looking for changes and impro
 > https://stripe.com/docs/stripe-cli
 > 
 > More information about stripe webhooks can be found in the docs : https://stripe.com/docs/webhooks
+> 
+> ### Don´t forget to force TLS/HTTPS on your webhook endpoint!
 
 <br>
 <p align="center">
